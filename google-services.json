@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "380234224978",
+    "firebase_url": "https://mycloset-467ed.firebaseio.com",
+    "project_id": "mycloset-467ed",
+    "storage_bucket": "mycloset-467ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380234224978:android:e3eac0a8794be986",
+        "android_client_info": {
+          "package_name": "com.example.yinon.mycloset"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380234224978-jer4au30bbtoabllku68a6pq6rn1uro2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.yinon.mycloset",
+            "certificate_hash": "da3a2362d07aca7706a5304043870e4f441a4be3"
+          }
+        },
+        {
+          "client_id": "380234224978-gunbbqo1it51ud77ik52j62bpvo7kbgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5S39VXBhj3B86hH-jl-uGfMaHKAl3KBI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380234224978-gunbbqo1it51ud77ik52j62bpvo7kbgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
